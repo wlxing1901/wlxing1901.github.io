@@ -29,8 +29,8 @@ Education
 
 Work Experience
 ------
-* **DJI** | Algorithm Engineer Intern, Oct 2018 - Apr 2019
-* **Momenta** | Research and Development Intern, May 2018 - Aug 
+* **DJI** Algorithm Engineer Intern, Oct 2018 - Apr 2019
+* **Momenta** Research and Development Intern, May 2018 - Aug 
 
 Contact
 ------
