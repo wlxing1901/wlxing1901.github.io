@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Exploring the Frontiers of AI and Robotics
+<!-- Exploring the Frontiers of AI and Robotics -->
 ======
 
 Welcome to my academic website! I'm Xing Wanli, a Computer Science PhD student at the University of Hong Kong (HKU). My research lies at the intersection of artificial intelligence, robotics, and computer vision, with a focus on creating smarter and more adaptive systems.
