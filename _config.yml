@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "avatar.jpg"
   name             : "Xing Wanli"
-  pronouns         : # example: "she/her"  
+  # pronouns         : # example: "she/her"  
   bio              : "Exploring the Frontiers of AI and Robotics"
-  location         : "Hong Kong SAR"
+  # location         : "Hong Kong SAR"
   employer         : "University of Hong Kong"
   uri              : # URL
   email            : "wlxing@connect.hku.hk" 
